@@ -1,4 +1,3 @@
-#Name: Yifan Wu   UUN:s2316499
 #Smoothing and function estimation play important parts in applied statistics
 #and data science. One approach combines basis expansions and penalized 
 #regression. In this project, write R functions for smoothing x, y data.
